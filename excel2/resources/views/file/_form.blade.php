@@ -1,0 +1,1 @@
+<form class="form-horizontal" method="POST" action="{{url('save')}}" enctype="multipart/form-data">
